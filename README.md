@@ -1,1 +1,9 @@
-# Canonigo_Laboratory-Work-4-Activity-1-Improving-CNN-Performance-Using-Regularization
+# Power BI Laboratory Activity
+# Submitted By:
+Jane Vanessa Canonigo
+
+# Laboratory Title:
+Laboratory Work [4] – [Forecasting Time]
+
+# PDF Documentation:
+## Link: 
