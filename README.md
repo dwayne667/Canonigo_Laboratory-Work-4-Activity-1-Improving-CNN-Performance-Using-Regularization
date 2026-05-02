@@ -5,6 +5,9 @@ Jane Vanessa Canonigo
 # Laboratory Title:
 Laboratory Work [4] – [Improving-CNN-Performance-Using-Regularization]
 
+# Activity 1: Evaluation Metrics + Visualization
+## Baseline Model — Classification Report
+
 | Herb Name       |   Precision |   Recall |   F1-Score |   Support |
 |:----------------|------------:|---------:|-----------:|----------:|
 | Bitter Vines    |        0.94 |     0.92 |       0.93 |        41 |
