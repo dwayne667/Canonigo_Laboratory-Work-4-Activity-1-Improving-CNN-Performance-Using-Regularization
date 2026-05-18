@@ -2,7 +2,7 @@
 ## Using Regularization, Fine-Tuning, and Advanced Evaluation
 
 **Jane Vanessa Canonigo**
-*Multi-class Tropical/Herbal Plant Species Classifier — Evaluation & Enhancement*
+*Multi-class Herbal Plant Species Classifier — Evaluation & Enhancement*
 
 ---
 
