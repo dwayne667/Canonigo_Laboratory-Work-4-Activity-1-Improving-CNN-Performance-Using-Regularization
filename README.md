@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview <a name="overview"></a>
 
-This laboratory work extends the LW3 image classifier by applying **rigorous evaluation metrics**, **model interpretability via Grad-CAM**, and **systematic performance improvements** through regularization and architectural enhancements. The dataset consists of **21 tropical/herbal plant species** with ~1,000 total validation samples (999 used for evaluation).
+This laboratory work extends the LW3 image classifier by applying **rigorous evaluation metrics**, **model interpretability via Grad-CAM**, and **systematic performance improvements** through regularization and architectural enhancements. The dataset consists of **20 tropical/herbal plant species** with ~1,000 total validation samples (999 used for evaluation).
 
 ---
 
@@ -71,7 +71,7 @@ The confusion matrix heatmap above visualizes which plant species the baseline m
 
 ![Baseline ROC Curve](baseline_roc_curve.png)
 
-The ROC curve plots the True Positive Rate vs. False Positive Rate for each of the 21 classes. Key AUC scores from the baseline model:
+The ROC curve plots the True Positive Rate vs. False Positive Rate for each of the 20 classes. Key AUC scores from the baseline model:
 
 | Class | AUC | Class | AUC |
 |-------|-----|-------|-----|
